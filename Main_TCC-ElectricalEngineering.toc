@@ -1,0 +1,43 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\vspace {\cftbeforepartskip }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{25}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Trabalhos Relacionados}{25}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Organização do Trabalho}{25}{section.1.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Revisão Bibliográfica}}{27}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Assunto 1}{27}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Assunto 2}{27}{section.2.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Método Proposto}}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Visão Geral}{29}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Descrição do Problema}{29}{section.3.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Resultados}}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Objetivos}{31}{section.4.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Considerações Finais}}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Discussão}{33}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Conclusão}{33}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Sugestões Para Trabalhos Futuros}{33}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Trabalhos Desenvolvidos}{34}{section.5.4}%
+\vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{35}{section*.21}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Apêndice}}{37}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Apêndice 1}{37}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Apêndice 2}{38}{section.6.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Anexos}}{39}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Anexo A}{39}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Anexo B}{40}{section.7.2}%
