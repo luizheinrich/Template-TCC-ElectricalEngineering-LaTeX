@@ -1,22 +1,22 @@
 # Fdb version 3
-["bibtex Main_TCC-ElectricalEngineering"] 1662352540 "Main_TCC-ElectricalEngineering.aux" "Main_TCC-ElectricalEngineering.bbl" "Main_TCC-ElectricalEngineering" 1662353478
+["bibtex Main_TCC-ElectricalEngineering"] 1662352540 "Main_TCC-ElectricalEngineering.aux" "Main_TCC-ElectricalEngineering.bbl" "Main_TCC-ElectricalEngineering" 1662353912
   "Bibliografia.bib" 1662349937 190 9264fada055ab9fe6285b6cf7bd3e5bf ""
   "C:/Users/luizh/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/ieeetr.bst" 1291864344 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
-  "Main_TCC-ElectricalEngineering.aux" 1662353476 15275 24d9c5efcc0d4d7448c6daa37f139438 "pdflatex"
+  "Main_TCC-ElectricalEngineering.aux" 1662353909 15275 24d9c5efcc0d4d7448c6daa37f139438 "pdflatex"
   (generated)
   "Main_TCC-ElectricalEngineering.bbl"
   "Main_TCC-ElectricalEngineering.blg"
-["makeindex Main_TCC-ElectricalEngineering.idx"] 1662350291 "Main_TCC-ElectricalEngineering.idx" "Main_TCC-ElectricalEngineering.ind" "Main_TCC-ElectricalEngineering" 1662353478
-  "Main_TCC-ElectricalEngineering.idx" 1662353475 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex Main_TCC-ElectricalEngineering.idx"] 1662350291 "Main_TCC-ElectricalEngineering.idx" "Main_TCC-ElectricalEngineering.ind" "Main_TCC-ElectricalEngineering" 1662353912
+  "Main_TCC-ElectricalEngineering.idx" 1662353908 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "Main_TCC-ElectricalEngineering.ilg"
   "Main_TCC-ElectricalEngineering.ind"
-["pdflatex"] 1662353473 "x:/GitHub/Template-TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering.tex" "Main_TCC-ElectricalEngineering.pdf" "Main_TCC-ElectricalEngineering" 1662353478
+["pdflatex"] 1662353905 "x:/GitHub/Template-TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering.tex" "Main_TCC-ElectricalEngineering.pdf" "Main_TCC-ElectricalEngineering" 1662353912
   "00-Setup/01-Setup.tex" 1662349937 1764 a2140f82fb82f45f6b22c6f58ce88a45 ""
   "00-Setup/02-Comandos.tex" 1635088826 4507 e5ffdb27e8b5f5df98a55084ad3b5296 ""
   "00-Setup/03-Informacoes.tex" 1662351139 3533 8da692a38dde46ea176f6979736d4ae2 ""
   "01-Elementos-pre-textuais/01-Capa.tex" 1662349937 1281 b33bffa17fe2e154df6d256d2f30703f ""
-  "01-Elementos-pre-textuais/02-Folha-de-rosto.tex" 1662349937 1689 068debfcec7bfa106aa677b126f400fa ""
+  "01-Elementos-pre-textuais/02-Folha-de-rosto.tex" 1662353822 1674 21f0cfc5215eb94742d68f6d46ceca3c ""
   "01-Elementos-pre-textuais/03-Ficha-catalografica.tex" 1662349937 1506 b08990c6dc83887b9cf79f68143814fb ""
   "01-Elementos-pre-textuais/04-Folha-de-aprovacao.tex" 1662352261 1808 2bb9264537da5eea445910ae8d573e3a ""
   "01-Elementos-pre-textuais/05-Dedicatoria.tex" 1662349937 452 418d0eda763eb2653b107e3c6ace19e0 ""
@@ -197,15 +197,15 @@
   "C:/Users/luizh/AppData/Local/Programs/MiKTeX/tex/latex/units/nicefrac.sty" 1469029150 4163 0462ee5ab265cf59dc15a41a3b883101 ""
   "C:/Users/luizh/AppData/Local/Programs/MiKTeX/tex/latex/units/units.sty" 1469029150 2206 65ad9fb19763b1681bea4cb389fe84f8 ""
   "C:/Users/luizh/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Main_TCC-ElectricalEngineering.aux" 1662353476 15275 24d9c5efcc0d4d7448c6daa37f139438 "pdflatex"
+  "Main_TCC-ElectricalEngineering.aux" 1662353909 15275 24d9c5efcc0d4d7448c6daa37f139438 "pdflatex"
   "Main_TCC-ElectricalEngineering.bbl" 1662352540 203 afeeb9347ed66a70e595809abc125911 "bibtex Main_TCC-ElectricalEngineering"
-  "Main_TCC-ElectricalEngineering.brf" 1662353476 57 0a5bccfcb607a74444e4febbdee9ea99 "pdflatex"
+  "Main_TCC-ElectricalEngineering.brf" 1662353909 57 0a5bccfcb607a74444e4febbdee9ea99 "pdflatex"
   "Main_TCC-ElectricalEngineering.ind" 1662350292 0 d41d8cd98f00b204e9800998ecf8427e "makeindex Main_TCC-ElectricalEngineering.idx"
-  "Main_TCC-ElectricalEngineering.lof" 1662353476 123 b1abe4dbc0bbd20048fe9a84626381fe "pdflatex"
-  "Main_TCC-ElectricalEngineering.lot" 1662353476 130 40e92e129e308e71695523505109e01d "pdflatex"
-  "Main_TCC-ElectricalEngineering.tex" 1662353099 4759 6fabbc64e185039f9d81690216655142 ""
-  "Main_TCC-ElectricalEngineering.toc" 1662353476 3459 71c9ae49ab61af62348e9ff05ff20038 "pdflatex"
-  "x:/GitHub/Template-TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering.tex" 1662353099 4759 6fabbc64e185039f9d81690216655142 ""
+  "Main_TCC-ElectricalEngineering.lof" 1662353909 123 b1abe4dbc0bbd20048fe9a84626381fe "pdflatex"
+  "Main_TCC-ElectricalEngineering.lot" 1662353909 130 40e92e129e308e71695523505109e01d "pdflatex"
+  "Main_TCC-ElectricalEngineering.tex" 1662353903 4759 6fabbc64e185039f9d81690216655142 ""
+  "Main_TCC-ElectricalEngineering.toc" 1662353909 3459 71c9ae49ab61af62348e9ff05ff20038 "pdflatex"
+  "x:/GitHub/Template-TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering.tex" 1662353903 4759 6fabbc64e185039f9d81690216655142 ""
   (generated)
   "Main_TCC-ElectricalEngineering.aux"
   "Main_TCC-ElectricalEngineering.brf"
